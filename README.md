@@ -1,5 +1,5 @@
-# Youtube Audio Player
+# Youtube Audio Player in Flutter
 
 Play youtube audio from video url. Supports background audio player.
 
-![Screenshot](/screenshot.png "Optional Title")
+<img src="screenshot.png" width="350px" />
