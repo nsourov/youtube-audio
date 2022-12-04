@@ -137,7 +137,9 @@ class _HomeState extends State<Home> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Youtube Audio Player'),
+        title: const Center(
+          child: Text('Youtube Audio Player'),
+        ),
         elevation: 0,
       ),
       body: Padding(
